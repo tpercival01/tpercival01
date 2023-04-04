@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋</h1>
 
 <p align="center">
 I'm a Computer Science Graduate with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
