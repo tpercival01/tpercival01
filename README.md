@@ -14,7 +14,7 @@ My name is Thomas Percival. I'm a Computer Science Graduate with a passion for w
 
 - 🌱 I’m currently learning **React**.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/tpercival01)! or [**Code Sandbox**](https://https://codesandbox.io/u/tpercival01).
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/tpercival01) or [**Code Sandbox**](https://https://codesandbox.io/u/tpercival01).
 
 - 📫 How to reach me: **thomaspercival@live.co.uk**.
 
