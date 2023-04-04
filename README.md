@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋</h1>
 
 <p align="center">
-I'm a Computer Science Graduate with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
+My name is Thomas Percival. I'm a Computer Science Graduate with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
 
 ##
@@ -12,11 +12,13 @@ I'm a Computer Science Graduate with a passion for web programming. My goal is t
 
 - 🔭 I’m currently studying to **become a Full Stack or Front End engineer**.
 
-- 🌱 I’m currently learning **React.js**.
+- 🌱 I’m currently learning **React**.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/tpercival01)!.
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/tpercival01)! or [**Code Sandbox**](https://https://codesandbox.io/u/tpercival01).
 
 - 📫 How to reach me: **thomaspercival@live.co.uk**.
+
+- 🔍 Check out my portfolio page on [**Thomas Percival**](https://tpercival01.github.io/FS-Portfolio)
 
 - 💬 Ask me about **JavaScript**.
 
