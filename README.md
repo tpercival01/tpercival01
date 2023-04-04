@@ -32,7 +32,7 @@ My name is Thomas Percival. I'm a Computer Science Graduate with a passion for w
 <h2 align="center">📫 Connect with me</h2>
 
 <div align = "center">
-[![Outlook: Thomas Percival](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:thomaspercival@live.co.uk)](mailto:thomaspercival@live.co.uk)&nbsp;
+
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/tpercival01)](https://www.frontendmentor.io/profile/tpercival01)&nbsp;
 [![Linkedin: Thomas Percival](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaspercival)](https://www.linkedin.com/in/thomaspercival)
   
