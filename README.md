@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋</h1>
 
 <p align="center">
-My name is Thomas Percival. I'm a Computer Science Graduate with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
+My name is Thomas Percival. I'm a Computer Science Graduate with a passion for python programming and data science. My goal is to develop scalable, maintainable and user-friendly applications that provide an essential and structured overview of a dataset. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
 
 ##
@@ -10,17 +10,15 @@ My name is Thomas Percival. I'm a Computer Science Graduate with a passion for w
 
 
 
-- 🔭 I’m currently studying to **become a Full Stack or Front End engineer**.
+- 🔭 I’m currently studying to become a **data engineer**.
 
-- 🌱 I’m currently learning **React**.
-
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/tpercival01) or [**Code Sandbox**](https://https://codesandbox.io/u/tpercival01).
+- 🌱 I’m currently learning **Python**..
 
 - 📫 How to reach me: **thomaspercival@live.co.uk**.
 
 - 🔍 Check out my portfolio page on [**Thomas Percival**](https://portfolio-tpercival01.vercel.app/)
 
-- 💬 Ask me about **JavaScript**.
+- 💬 Ask me about **Artificial Intelligence**.
 
 <br>
 <br>
@@ -34,7 +32,6 @@ My name is Thomas Percival. I'm a Computer Science Graduate with a passion for w
 <div align = "center">
   
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:thomaspercival@live.co.uk)](mailto:thomaspercival@live.co.uk)&nbsp; 
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/tpercival01)](https://www.frontendmentor.io/profile/tpercival01)&nbsp;
 [![Linkedin: Thomas Percival](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaspercival)](https://www.linkedin.com/in/thomaspercival)
   
 </div>
@@ -42,36 +39,7 @@ My name is Thomas Percival. I'm a Computer Science Graduate with a passion for w
 <br>
 
 <div align = "center">
-
-<h2 align="center">Languages and Tools</h2>
-
-<details open>
-<summary><b>Frontend</b></summary>
-<br>
   
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)&nbsp;
-![React](https://img.shields.io/badge/-React-%23404d59?style=for-the-badge&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-
-<details open>
-<summary><b>Backend</b></summary>
-<br>
-
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-</details>
-
-<details open>
-<summary><b>Database</b></summary>
-<br>
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=for-the-badge&logo=mysql)&nbsp;
-</details>
-
-<details open>
 <summary><b>💻 Software and Tools</b></summary>
 <br>
 
