@@ -33,6 +33,7 @@ My name is Thomas Percival. I'm a Computer Science Graduate with a passion for p
   
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:thomaspercival@live.co.uk)](mailto:thomaspercival@live.co.uk)&nbsp; 
 [![Linkedin: Thomas Percival](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaspercival)](https://www.linkedin.com/in/thomaspercival)
+[![Medium]](https://medium.com/@tpercival)
   
 </div>
 
@@ -46,6 +47,7 @@ My name is Thomas Percival. I'm a Computer Science Graduate with a passion for p
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
+
 </details>
 
 </div>
