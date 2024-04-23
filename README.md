@@ -33,7 +33,7 @@ My name is Thomas Percival. I'm a Computer Science Graduate with a passion for p
   
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:thomaspercival@live.co.uk)](mailto:thomaspercival@live.co.uk)&nbsp; 
 [![Linkedin: Thomas Percival](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaspercival)](https://www.linkedin.com/in/thomaspercival)
-[![Medium]](https://medium.com/@tpercival)
+[![Medium](https://img.shields.io/badge/Medium)](https://medium.com/@tpercival)
   
 </div>
 
