@@ -16,8 +16,6 @@ My name is Thomas Percival. I'm a Computer Science Graduate with a passion for p
 
 - 📫 How to reach me: **thomaspercival@live.co.uk**.
 
-- 🔍 Check out my portfolio page on [**Thomas Percival**](https://portfolio-tpercival01.vercel.app/)
-
 - 💬 Ask me about **Artificial Intelligence**.
 
 <br>
