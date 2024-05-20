@@ -10,13 +10,11 @@ My name is Thomas Percival. I'm a Computer Science Graduate with a passion for p
 
 
 
-- 🔭 I’m currently studying to become a **data engineer**.
+- 🔭 I’m currently studying to become a **Python Engineer**.
 
-- 🌱 I’m currently learning **Python, Data Analysis, Excel and SQL**.
+- 🌱 I’m currently learning **Python, JavaScript, and Game development**.
 
 - 📫 How to reach me: **thomaspercival@live.co.uk**.
-
-- 👋 My new portfolio: **[datascienceportfol.io/thomaspercival](https://www.datascienceportfol.io/thomaspercival)**.
 
 - 💬 Ask me about **Artificial Intelligence**.
 
