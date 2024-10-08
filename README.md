@@ -21,9 +21,6 @@
 - 💬 Ask me about **Python projects, automation, or artificial intelligence**.
 
 <br>
-<br>
-
-#
 
 ## 🚀 Projects
 
