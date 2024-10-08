@@ -12,17 +12,23 @@
 
 <br>
 
-
-- 🔭 I’m currently studying to become a **Python Engineer**.
-
-- 🌱 I’m currently learning **Python, JavaScript, and Game development**.
-
+- 🔭 I’m currently transitioning to a career as a **Python Developer**, focusing on automation and AI applications.
+  
+- 🌱 I’m learning **advanced Python concepts, JavaScript**, and exploring **AI and machine learning**.
+  
 - 📫 How to reach me: **thomaspercival@live.co.uk**.
-
-- 💬 Ask me about **Artificial Intelligence**.
+  
+- 💬 Ask me about **Python projects, automation, or artificial intelligence**.
 
 <br>
 <br>
+
+#
+
+## 🚀 Projects
+
+- **Asset Management Tool**: A Python GUI application using Tkinter that consolidates asset data from multiple sources like Jamf, Intune, and CUCM. [GitHub Link]
+- **Password Generator**: A customizable password generator built in Python using Tkinter for the GUI. [GitHub Link]
 
 #
 
