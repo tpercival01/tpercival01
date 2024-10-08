@@ -33,7 +33,8 @@
 
 <div align = "center">
   
-<summary><b>💻 Software and Tools</b></summary>
+<h2><b>💻 Software and Tools</b></h2>
+
 <br>
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
@@ -45,6 +46,8 @@
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
 
 </div>
+
+<br>
 
 <h2 align="center">📫 Connect with me</h2>
 
