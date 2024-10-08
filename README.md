@@ -4,11 +4,13 @@
   I'm a Computer Science graduate with a passion for Python programming, automation, and artificial intelligence. My focus is on building scalable and maintainable applications, with a particular interest in automation and data-driven solutions. I'm currently learning new technologies to transition into a role as a Python Developer, using my skills to solve real-world problems.
 </p>
 
-##
-
 <br>
 
 <p align="center"><i>"Transforming ideas into efficient Python applications one line of code at a time."</i></p>
+
+##
+
+<br>
 
 
 - 🔭 I’m currently studying to become a **Python Engineer**.
