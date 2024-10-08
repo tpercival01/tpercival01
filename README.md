@@ -8,6 +8,8 @@
 
 <p align="center"><i>"Transforming ideas into efficient Python applications one line of code at a time."</i></p>
 
+<br>
+
 ##
 
 <br>
@@ -25,9 +27,7 @@
 ## 🚀 Projects
 
 - **Asset Management Tool**: A Python GUI application using Tkinter that consolidates asset data from multiple sources like Jamf, Intune, and CUCM. [GitHub Link]
-- **Password Generator**: A customizable password generator built in Python using Tkinter for the GUI. [GitHub Link]
-
-#
+- **Password Generator**: A customizable password generator built in Python using Tkinter for the GUI. [github.com/tpercival01/asset-checker]
 
 <br>
 
