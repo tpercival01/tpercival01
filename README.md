@@ -1,13 +1,14 @@
-<h1 align="center"> Hi there 👋</h1>
+<h1 align="center"> Hi there 👋, I'm Thomas Percival </h1>
 
 <p align="center">
-My name is Thomas Percival. I'm a Computer Science Graduate with a passion for python programming and data science. My goal is to develop scalable, maintainable and user-friendly applications that provide an essential and structured overview of a dataset. I am constantly learning and experimenting with new technologies and frameworks to find the best solutions to the problems at hand. 
+  I'm a Computer Science graduate with a passion for Python programming, automation, and artificial intelligence. My focus is on building scalable and maintainable applications, with a particular interest in automation and data-driven solutions. I'm currently learning new technologies to transition into a role as a Python Developer, using my skills to solve real-world problems.
 </p>
 
 ##
 
 <br>
 
+<p align="center"><i>"Transforming ideas into efficient Python applications one line of code at a time."</i></p>
 
 
 - 🔭 I’m currently studying to become a **Python Engineer**.
