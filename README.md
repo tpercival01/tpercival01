@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, I'm Thomas Percival </h1>
 
 <p align="center">
-  I'm a Computer Science graduate with a passion for Python programming, automation, and artificial intelligence. My focus is on building scalable and maintainable applications, with a particular interest in automation and data-driven solutions. I'm currently learning new technologies to transition into a role as a Python Developer, using my skills to solve real-world problems.
+I'm a Computer Science graduate with an insatiable passion for Python programming, automation, and artificial intelligence. Currently pursuing an MSc in Artificial Intelligence, I'm deepening my expertise in machine learning and data analytics to craft scalable, maintainable applications. Eager to embrace emerging technologies, I'm expanding my skill set to transition into a Python Developer role where I can leverage both my advanced academic training and hands-on experience to solve complex, real-world challenges.
 </p>
 
 <br>
