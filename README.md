@@ -1,61 +1,77 @@
-<h1 align="center"> Hi there 👋, I'm Thomas Percival </h1>
+<h1 align="center">Thomas Percival</h1>
+<h3 align="center">Python Developer | Data Analyst | Automation Specialist | MSc AI Student</h3>
 
 <p align="center">
-I'm a Computer Science graduate with an insatiable passion for Python programming, automation, and artificial intelligence. Currently pursuing an MSc in Artificial Intelligence, I'm deepening my expertise in machine learning and data analytics to craft scalable, maintainable applications. Eager to embrace emerging technologies, I'm expanding my skill set to transition into a Python Developer role where I can leverage both my advanced academic training and hands-on experience to solve complex, real-world challenges.
+I transform business challenges into efficient technical solutions through Python automation, data analysis, and machine learning. My background combines IT systems expertise with programming skills to deliver measurable business impact through code.
 </p>
 
-<br>
+<p align="center"><i>"Converting data into insights and manual processes into automated solutions."</i></p>
 
-<p align="center"><i>"Transforming ideas into efficient Python applications one line of code at a time."</i></p>
+## 💼 Professional Focus
 
-<br>
+- 🔍 **Data Analysis & Visualization** - Transforming complex datasets into actionable business insights
+- 🤖 **Process Automation** - Reducing manual effort by 10+ hours weekly through Python scripting
+- 🧠 **Machine Learning Applications** - Applying AI to solve practical business problems
+- 📊 **Business Intelligence** - Creating interactive dashboards that drive decision-making
 
-##
+## 🚀 Notable Projects
 
-<br>
+### IT Cost Optimization Dashboard
+*Python, SQL, Pandas, Matplotlib, Streamlit*
+- Consolidated asset data from multiple IT systems into a centralized SQLite database
+- Created interactive visualizations showing cost distribution and optimization opportunities
+- Identified potential annual savings of £10,000+ through license optimization and refresh planning
+- [View Project](https://github.com/tpercival01/it-cost-optimizer)
 
-- 🔭 I’m currently transitioning to a career as a **Python Developer**, focusing on automation and AI applications.
-  
-- 🌱 I’m learning **advanced Python concepts, JavaScript**, and exploring **AI and machine learning**.
-  
-- 📫 How to reach me: **thomaspercival@live.co.uk**.
-  
-- 💬 Ask me about **Python projects, automation, or artificial intelligence**.
+### Automated Data Pipeline for IT Reporting
+*Python, Pandas, SQL, ETL Process*
+- Developed ETL pipeline extracting data from JAMF, SCCM, and Active Directory
+- Transformed and standardized data through Pandas data processing
+- Generated automated weekly reports, reducing manual reporting time by 80%
+- [View Project](https://github.com/tpercival01/data-pipeline)
 
-<br>
+### CNN Multi-Label Image Classifier
+*Python, TensorFlow, NumPy, Neural Networks*
+- Trained a Convolutional Neural Network to classify multi-label images of 3-digit numbers
+- Achieved 92% accuracy through model architecture optimization
+- Implemented data preprocessing pipeline for image standardization
+- [View Project](https://github.com/tpercival01/CNN-classifier)
 
-## 🚀 Projects
+## 🔧 Technical Stack
 
-- **Asset-Checker**: A Python GUI application using Tkinter that consolidates asset data from multiple sources like Jamf, Intune, and CUCM.
-- **Password-Generator**: A customizable password generator built in Python using Tkinter for the GUI.
+### Languages & Frameworks:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br>
+### Data & ML Tools:
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<div align = "center">
-  
-<h2><b>💻 Software and Tools</b></h2>
+### Development Tools:
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<br>
+## 📚 Currently Working On
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
-![Tkinter](https://img.shields.io/badge/-Tkinter-blue?style=for-the-badge)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+- **Advanced SQL Project**: Developing complex queries for business analysis using window functions and CTEs
+- **Streamlit Dashboard**: Building interactive visualizations for IT asset management
+- **API Data Integration**: Creating an ETL pipeline from public APIs to a SQLite database
 
-</div>
+## 📫 Connect With Me
 
-<br>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tpercival01.github.io/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomaspercival)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:thomaspercival@live.co.uk)
 
-<h2 align="center">📫 Connect with me</h2>
+## 🎯 Career Goals
 
-<div align = "center">
-  
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:thomaspercival@live.co.uk)](mailto:thomaspercival@live.co.uk)&nbsp; 
-[![Linkedin: Thomas Percival](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thomaspercival)](https://www.linkedin.com/in/thomaspercival)
-  
-</div>
-
-<br>
+- Leveraging my unique combination of IT infrastructure knowledge and Python/data skills to develop solutions that drive business efficiency
+- Completing my MSc in Artificial Intelligence (2026) while building practical applications of ML/AI
+- Focusing on high-impact projects that demonstrate measurable return on investment
