@@ -23,13 +23,6 @@ I transform business challenges into efficient technical solutions through Pytho
 - Identified potential annual savings of £10,000+ through license optimization and refresh planning
 - [View Project](https://github.com/tpercival01/it-cost-optimizer)
 
-### Automated Data Pipeline for IT Reporting
-*Python, Pandas, SQL, ETL Process*
-- Developed ETL pipeline extracting data from JAMF, SCCM, and Active Directory
-- Transformed and standardized data through Pandas data processing
-- Generated automated weekly reports, reducing manual reporting time by 80%
-- [View Project](https://github.com/tpercival01/data-pipeline)
-
 ### CNN Multi-Label Image Classifier
 *Python, TensorFlow, NumPy, Neural Networks*
 - Trained a Convolutional Neural Network to classify multi-label images of 3-digit numbers
