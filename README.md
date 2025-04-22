@@ -14,22 +14,6 @@ I transform business challenges into efficient technical solutions through Pytho
 - 🧠 **Machine Learning Applications** - Applying AI to solve practical business problems
 - 📊 **Business Intelligence** - Creating interactive dashboards that drive decision-making
 
-## 🚀 Notable Projects
-
-### IT Cost Optimization Dashboard
-*Python, SQL, Pandas, Matplotlib, Streamlit*
-- Consolidated asset data from multiple IT systems into a centralized SQLite database
-- Created interactive visualizations showing cost distribution and optimization opportunities
-- Identified potential annual savings of £10,000+ through license optimization and refresh planning
-- [View Project](https://github.com/tpercival01/it-cost-optimizer)
-
-### CNN Multi-Label Image Classifier
-*Python, TensorFlow, NumPy, Neural Networks*
-- Trained a Convolutional Neural Network to classify multi-label images of 3-digit numbers
-- Achieved 92% accuracy through model architecture optimization
-- Implemented data preprocessing pipeline for image standardization
-- [View Project](https://github.com/tpercival01/CNN-classifier)
-
 ## 🔧 Technical Stack
 
 ### Languages & Frameworks:
