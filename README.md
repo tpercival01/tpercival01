@@ -110,7 +110,7 @@ Discover more of my work on [my GitHub repositories](https://github.com/tperciva
 
 ## ⚡ Fun Fact
 
-When I'm not coding, I'm exploring the worlds of music and art—always finding new ways to blend creativity with technology.
+When I'm not coding, I'm training hard to become the next British Weightlifting champion!
 
 ---
 
