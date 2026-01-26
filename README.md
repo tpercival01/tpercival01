@@ -1,6 +1,6 @@
 <h1 align="center">Thomas Percival</h1>
 <h3 align="center">
-  IT Automation Engineer | Python & PowerShell | MSc AI Candidate
+  Software Engineer | Backend & AI | MSc AI Graduate
 </h3>
 
 <p align="center">
@@ -17,39 +17,41 @@
 
 ## 🔥 About Me
 
-I am an **IT Automation Specialist** transitioning complex manual operations into scalable code.
+I am a **Software Engineer** with a strong background in Ops and Infrastructure.
 
-Currently completing an **MSc in Artificial Intelligence** (June 2026), I focus on bridging the gap between IT Operations and DevOps. I specialize in using **Python and PowerShell** to build self-healing infrastructure, automate asset reporting, and integrate AI models into practical workflows.
+Having recently completed my **MSc in Artificial Intelligence** (Jan 2026), I build scalable backend systems, develop internal tooling, and integrate AI models into production workflows. My background in IT Operations gives me a unique edge: I don't just write code; I understand how it runs, deploys, and breaks in live environments.
 
-**My Goal:** Eliminate "busy work" through intelligent automation.
+**Current Focus:** Building high-performance backend architectures with Python, FastAPI, and Docker.
 
 ---
 
 ## 💼 Core Competencies
 
-- **Scripting & Automation:** Python, PowerShell, Bash, REST API Integration
-- **Cloud & Infrastructure:** Azure, AWS, Docker, Terraform (IaC)
-- **AI & Data:** Pandas, NumPy, TensorFlow, Hugging Face Transformers
-- **DevOps Tools:** Git, GitHub Actions, CI/CD Pipelines
+- **Backend Development:** Python (FastAPI/Flask), REST API Design, Microservices
+- **Infrastructure & DevOps:** Docker, CI/CD, Azure, Linux/Bash
+- **AI & Data Engineering:** TensorFlow, Hugging Face, Data Pipelines (Pandas/NumPy)
+- **Automation:** Removing manual toil through self-healing scripts and event-driven architecture
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🕵️♂️ Aletheia - AI Content Detection
-**Tech:** Python, JavaScript, TensorFlow, Hugging Face
-*   Browser extension designed to detect AI-generated patterns in text/images in real-time.
-*   Fine-tuned a custom transformer model hosted on Hugging Face for inference.
+### 🕵️♂️ Aletheia - AI Content Detection (MSc Dissertation)
+**Tech:** Python, TensorFlow, Hugging Face, JavaScript
+*   Browser extension that detects AI-generated text patterns in real-time.
+*   Engineered a custom transformer model API served via a Python backend.
+*   Demonstrated feasibility of client-side inference for synthetic content detection.
 
-### 🛠️ IT Automation Toolkit
-**Tech:** Python, Selenium, BeautifulSoup, Pandas
-*   A modular library of automation tools for web scraping and data processing.
-*   Replicates professional logic to normalize data from disparate sources, reducing manual entry by 90% in previous roles.
+### 🎮 Mobile Game Backend (BaaS)
+**Tech:** Python, FastAPI, PostgreSQL, Redis, Docker
+*   *In Development:* A scalable Backend-as-a-Service for a mobile iOS game.
+*   Features include real-time leaderboards (Redis), JWT authentication, and stateless REST endpoints.
+*   Fully containerized development environment ensuring consistent deployment.
 
-### 💻 Asset Management Dashboard
-**Tech:** Python, Tkinter, REST APIs
-*   Desktop application that aggregates IT asset data from Jamf and Intune via API.
-*   Provides a unified GUI for real-time filtering and reporting, replacing Excel-based tracking.
+### 🛠️ Enterprise Automation Library
+**Tech:** Python, Requests, Selenium, Azure API
+*   Designed a modular library to normalize data from disparate sources (ServiceNow, Intune, Jamf).
+*   Refactored legacy scripts into maintainable, object-oriented modules, reducing data fragmentation issues for support teams.
 
 ---
 
@@ -57,13 +59,13 @@ Currently completing an **MSc in Artificial Intelligence** (June 2026), I focus 
 
 | Category | Technology |
 | :--- | :--- |
-| **Languages** | Python, PowerShell, Bash, SQL, JavaScript |
-| **Cloud/DevOps** | Azure AD, Intune, Docker, GitHub Actions, Terraform |
-| **AI/ML** | TensorFlow, PyTorch, Pandas, Scikit-learn |
-| **Web/API** | Flask, FastAPI, Selenium, REST |
+| **Languages** | Python, SQL, JavaScript, Bash, PowerShell |
+| **Backend** | FastAPI, Flask, PostgreSQL, Redis, REST APIs |
+| **DevOps/Cloud** | Docker, Git/GitHub Actions, Azure, Terraform |
+| **AI/ML** | TensorFlow, PyTorch, Scikit-learn, Hugging Face |
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpercival01&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpercival01&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 </p>
