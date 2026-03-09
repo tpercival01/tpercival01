@@ -19,7 +19,7 @@
 
 I am a **Software Engineer** with a strong background in Ops and Infrastructure.
 
-Having recently completed my **MSc in Artificial Intelligence** (Jan 2026), I build scalable backend systems, develop internal tooling, and integrate AI models into production workflows. My background in IT Operations gives me a unique edge: I don't just write code; I understand how it runs, deploys, and breaks in live environments.
+Having recently completed my **MSc in Artificial Intelligence** (Jan 2026) with a **Distinction**, I build scalable backend systems, develop internal tooling, and integrate AI models into production workflows. My background in IT Operations gives me a unique edge: I don't just write code; I understand how it runs, deploys, and breaks in live environments.
 
 **Current Focus:** Building high-performance backend architectures with Python, FastAPI, and Docker.
 
