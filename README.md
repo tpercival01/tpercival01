@@ -42,6 +42,12 @@ Having recently completed my **MSc in Artificial Intelligence** (Jan 2026) with 
 *   Engineered a custom transformer model API served via a Python backend.
 *   Demonstrated feasibility of client-side inference for synthetic content detection.
 
+### 🔍 Fabricated - AI Murder Mystery Game
+**Tech:** Next.js, React Flow, Python, FastAPI, Supabase, Groq (Llama 3)
+*  Procedural detective game featuring a digital corkboard UI for connecting clues to suspects via drag-and-drop mechanics.
+*  Engineered a FastAPI backend to generate cases, sanitize JSON payloads to prevent client cheating, and evaluate player theories via an AI Judge.
+*  Implemented client-side state persistence to save active investigations and protected LLM endpoints with IP-based rate limiting.
+
 ### 🎮 Mobile Game Backend (BaaS)
 **Tech:** Python, FastAPI, PostgreSQL, Redis, Docker
 *   *In Development:* A scalable Backend-as-a-Service for a mobile iOS game.
