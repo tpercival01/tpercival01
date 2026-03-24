@@ -48,16 +48,12 @@ Having recently completed my **MSc in Artificial Intelligence** (Jan 2026) with 
 *  Engineered a FastAPI backend to generate cases, sanitize JSON payloads to prevent client cheating, and evaluate player theories via an AI Judge.
 *  Implemented client-side state persistence to save active investigations and protected LLM endpoints with IP-based rate limiting.
 
-### 🎮 Mobile Game Backend (BaaS)
-**Tech:** Python, FastAPI, PostgreSQL, Redis, Docker
-*   *In Development:* A scalable Backend-as-a-Service for a mobile iOS game.
-*   Features include real-time leaderboards (Redis), JWT authentication, and stateless REST endpoints.
-*   Fully containerized development environment ensuring consistent deployment.
-
-### 🛠️ Enterprise Automation Library
-**Tech:** Python, Requests, Selenium, Azure API
-*   Designed a modular library to normalize data from disparate sources (ServiceNow, Intune, Jamf).
-*   Refactored legacy scripts into maintainable, object-oriented modules, reducing data fragmentation issues for support teams.
+### DataAgent: Autonomous B2B Data Analytics Engine
+**Tech:** Python, FastAPI, Next.js, Groq (Llama 3), E2B Sandboxing
+*  Built a full-stack, fault-tolerant AI agent that translates natural language business queries into Pandas/Matplotlib code, securely executing it within isolated, ephemeral cloud sandboxes.
+*  Engineered a self-healing execution loop that autonomously catches remote runtime errors, injects Python tracebacks into the LLM context, and resolves code hallucinations without user input.
+*  Developed native Linux bash extraction pipes to capture Base64 binary chart data directly from the headless sandbox, bypassing fragile SDKs for a single-trip frontend response.
+*  Implemented a resilient Next.js chat interface featuring conversational memory, prompt injection guardrails, and silent sandbox resurrection to seamlessly handle remote container timeouts.
 
 ---
 
