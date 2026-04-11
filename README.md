@@ -1,37 +1,31 @@
-<h1 align="center">Thomas Percival</h1>
-<h3 align="center">
-  Software Engineer | Backend & AI | MSc AI Graduate
-</h3>
+# Thomas Percival
 
-<p align="center">
-  <a href="https://linkedin.com/in/thomaspercival" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://tpercival01.github.io/Portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+### Python Backend Developer | FastAPI, APIs, SQL, Docker
+
+[LinkedIn](https://www.linkedin.com/in/thomaspercival) • [Portfolio](https://tpercival01.github.io/Portfolio/)
 
 ---
 
-## 🔥 About Me
+## About
 
-I am a **Software Engineer** with a strong background in Ops and Infrastructure.
+I am a Python developer focused on backend engineering, API integrations, and automation systems. I build software that solves practical problems, including FastAPI backends, SQL-backed applications, async workflows, containerised tools, and full-stack products with Python at the core.
 
-Having recently completed my **MSc in Artificial Intelligence** (Jan 2026) with a **Distinction**, I build scalable backend systems, develop internal tooling, and integrate AI models into production workflows. My background in IT Operations gives me a unique edge: I don't just write code; I understand how it runs, deploys, and breaks in live environments.
+My recent work includes:
+- **Prism** — a local-first stream clipping platform combining a web app with a Python desktop worker
+- **Project Onyx** — an asynchronous FastAPI ingestion backend using Celery, Redis, and PostgreSQL
+- **DataAgent** — a sandboxed data analysis system that converts user requests into executable Python workflows
+- **Aletheia** — a browser-based AI detection system running privacy-preserving client-side inference
 
-**Current Focus:** Building high-performance backend architectures with Python, FastAPI, and Docker.
+I recently completed an MSc in Artificial Intelligence and I am targeting junior backend, junior Python, and software engineering roles.
 
 ---
 
-## 💼 Core Competencies
+## Core Stack
 
-- **Backend Development:** Python (FastAPI/Flask), REST API Design, Microservices
-- **Infrastructure & DevOps:** Docker, CI/CD, Azure, Linux/Bash
-- **AI & Data Engineering:** TensorFlow, Hugging Face, Data Pipelines (Pandas/NumPy)
-- **Automation:** Removing manual toil through self-healing scripts and event-driven architecture
-
+- **Languages:** Python, SQL, JavaScript/TypeScript, PowerShell, Bash
+- **Backend:** FastAPI, REST APIs, PostgreSQL, Redis, Celery, SQLAlchemy
+- **Frontend:** Next.js, React
+- **Tools:** Docker, Git/GitHub, Linux
 ---
 
 ## 🚀 Featured Projects
