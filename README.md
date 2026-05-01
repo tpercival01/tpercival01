@@ -64,5 +64,5 @@ I am targeting Python Backend Engineer, AI Application Engineer, Automation Engi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tpercival01&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+   [![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=tpercival01)](https://github.com/tpercival01/github-readme-stats)
 </p>
