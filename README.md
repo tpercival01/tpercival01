@@ -16,7 +16,8 @@ My recent work includes:
 - **DataAgent** — a sandboxed data analysis system that converts user requests into executable Python workflows
 - **Aletheia** — a browser-based AI detection system running privacy-preserving client-side inference
 
-I recently completed an MSc in Artificial Intelligence and I am targeting junior backend, junior Python, and software engineering roles.
+I build Python backend systems, AI workflow tools, and internal automation platforms using FastAPI, PostgreSQL, Docker, Redis, Celery, and React.
+I am targeting Python Backend Engineer, AI Application Engineer, Automation Engineer, and Internal Tools Engineer roles.
 
 ---
 
