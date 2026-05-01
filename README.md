@@ -62,7 +62,3 @@ I am targeting Python Backend Engineer, AI Application Engineer, Automation Engi
 | **AI/ML** | TensorFlow, PyTorch, Scikit-learn, Hugging Face |
 
 ---
-
-<p align="center">
-   [![Thomas' GitHub stats](https://github-readme-stats.vercel.app/api?username=tpercival01)](https://github.com/tpercival01/github-readme-stats)
-</p>
