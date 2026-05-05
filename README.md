@@ -2,7 +2,7 @@
 
 ### Python Backend Developer | FastAPI, APIs, SQL, Docker
 
-[LinkedIn](https://www.linkedin.com/in/thomaspercival) • [Portfolio](https://tpercival01.github.io/Portfolio/)
+[LinkedIn](https://www.linkedin.com/in/thomaspercival) • [Portfolio](https://thomaspercival.dev)
 
 ---
 
