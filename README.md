@@ -1,6 +1,6 @@
 # Thomas Percival
 
-### Python Backend Developer | FastAPI, APIs, SQL, Docker
+### Python Automation Engineer | IT Automation | Applied AI & Internal Tools
 
 [LinkedIn](https://www.linkedin.com/in/thomaspercival) • [Portfolio](https://thomaspercival.dev)
 
@@ -8,57 +8,55 @@
 
 ## About
 
-I am a Python developer focused on backend engineering, API integrations, and automation systems. I build software that solves practical problems, including FastAPI backends, SQL-backed applications, async workflows, containerised tools, and full-stack products with Python at the core.
+I build Python automation, internal tools, and applied AI workflows for operational problems.
 
-My recent work includes:
-- **Prism** — a local-first stream clipping platform combining a web app with a Python desktop worker
-- **Project Onyx** — an asynchronous FastAPI ingestion backend using Celery, Redis, and PostgreSQL
-- **DataAgent** — a sandboxed data analysis system that converts user requests into executable Python workflows
-- **Aletheia** — a browser-based AI detection system running privacy-preserving client-side inference
+My background combines enterprise IT support, Python/PowerShell automation, and an MSc in Artificial Intelligence with Distinction. I work across ServiceNow, Microsoft 365, Entra ID, Intune, Exchange Online, FastAPI, PostgreSQL, Docker, and LLM workflow systems.
 
-I build Python backend systems, AI workflow tools, and internal automation platforms using FastAPI, PostgreSQL, Docker, Redis, Celery, and React.
-I am targeting Python Backend Engineer, AI Application Engineer, Automation Engineer, and Internal Tools Engineer roles.
+My current focus is the space between IT operations and software engineering: API integrations, support workflow automation, data tooling, internal platforms, and AI systems that complete useful tasks rather than just chat.
 
 ---
 
-## Core Stack
+## Featured Projects
 
-- **Languages:** Python, SQL, JavaScript/TypeScript, PowerShell, Bash
-- **Backend:** FastAPI, REST APIs, PostgreSQL, Redis, Celery, SQLAlchemy
-- **Frontend:** Next.js, React
-- **Tools:** Docker, Git/GitHub, Linux
----
-
-## 🚀 Featured Projects
-
-### 🕵️♂️ Aletheia - AI Content Detection (MSc Dissertation)
-**Tech:** Python, TensorFlow, Hugging Face, JavaScript
-*   Browser extension that detects AI-generated text patterns in real-time.
-*   Engineered a custom transformer model API served via a Python backend.
-*   Demonstrated feasibility of client-side inference for synthetic content detection.
-
-### 🔍 Fabricated - AI Murder Mystery Game
-**Tech:** Next.js, React Flow, Python, FastAPI, Supabase, Groq (Llama 3)
-*  Procedural detective game featuring a digital corkboard UI for connecting clues to suspects via drag-and-drop mechanics.
-*  Engineered a FastAPI backend to generate cases, sanitize JSON payloads to prevent client cheating, and evaluate player theories via an AI Judge.
-*  Implemented client-side state persistence to save active investigations and protected LLM endpoints with IP-based rate limiting.
-
-### DataAgent: Autonomous B2B Data Analytics Engine
-**Tech:** Python, FastAPI, Next.js, Groq (Llama 3), E2B Sandboxing
-*  Built a full-stack, fault-tolerant AI agent that translates natural language business queries into Pandas/Matplotlib code, securely executing it within isolated, ephemeral cloud sandboxes.
-*  Engineered a self-healing execution loop that autonomously catches remote runtime errors, injects Python tracebacks into the LLM context, and resolves code hallucinations without user input.
-*  Developed native Linux bash extraction pipes to capture Base64 binary chart data directly from the headless sandbox, bypassing fragile SDKs for a single-trip frontend response.
-*  Implemented a resilient Next.js chat interface featuring conversational memory, prompt injection guardrails, and silent sandbox resurrection to seamlessly handle remote container timeouts.
+- **DataAgent** — AI spreadsheet-analysis engine that converts natural-language data requests into sandboxed Python workflows with logs, charts, retries, and error recovery.
+- **Project Onyx** — async FastAPI API-sync backend using Celery, Redis, PostgreSQL, Docker, delta syncing, and idempotent updates.
+- **Fabricated** — structured LLM workflow engine using FastAPI, PostgreSQL, staged generation, JSON outputs, and resumable workflow state.
+- **Aletheia** — MSc AI dissertation project for AI-generated media detection using TensorFlow, browser tooling, and Dockerised backend inference.
 
 ---
 
-## 🔧 Technical Stack
+## Technical Stack
 
 | Category | Technology |
 | :--- | :--- |
-| **Languages** | Python, SQL, JavaScript, Bash, PowerShell |
-| **Backend** | FastAPI, Flask, PostgreSQL, Redis, REST APIs |
-| **DevOps/Cloud** | Docker, Git/GitHub Actions, Azure, Terraform |
-| **AI/ML** | TensorFlow, PyTorch, Scikit-learn, Hugging Face |
+| **Automation & Scripting** | Python, PowerShell, Bash, API integrations, scheduled workflows |
+| **Enterprise IT** | ServiceNow REST APIs, Microsoft 365, Entra ID, Intune, Exchange Online |
+| **Backend & Data** | FastAPI, REST APIs, PostgreSQL, SQLAlchemy, Redis, Celery, SQL, Pandas |
+| **Frontend** | Next.js, React, JavaScript/TypeScript |
+| **AI & ML** | LLM integrations, structured outputs, TensorFlow, Scikit-learn, Hugging Face |
+| **Tools** | Docker, Git/GitHub, Linux, Azure |
 
 ---
+
+## Current Focus
+
+I am currently building and refining projects around:
+
+- AI-assisted workflow automation
+- Internal tools for operational teams
+- API integrations and data synchronisation
+- LLM systems with structured outputs, retries, and validation
+- Practical AI tools that reduce repetitive manual work
+
+---
+
+## Target Roles
+
+I am currently targeting roles such as:
+
+- Python Automation Engineer
+- IT Automation Engineer
+- Application Support Engineer
+- Internal Tools Engineer
+- AI Automation Engineer
+- Python Backend Engineer
