@@ -18,6 +18,7 @@ My current focus is the space between IT operations and software engineering: AP
 
 ## Featured Projects
 
+- **OpsOracle** — AI-assisted support triage prototype. Classifies ServiceNow-style tickets, predicts priority, flags security risks, retrieves similar incidents, and generates analyst notes via Groq LLM. Python · Streamlit · scikit-learn · Groq.
 - **DataAgent** — AI spreadsheet-analysis engine that converts natural-language data requests into sandboxed Python workflows with logs, charts, retries, and error recovery.
 - **Project Onyx** — async FastAPI API-sync backend using Celery, Redis, PostgreSQL, Docker, delta syncing, and idempotent updates.
 - **Fabricated** — structured LLM workflow engine using FastAPI, PostgreSQL, staged generation, JSON outputs, and resumable workflow state.
